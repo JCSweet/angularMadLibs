@@ -1,0 +1,9 @@
+input {
+  margin: 20px;
+  height: 20px;
+  width: 20%;
+}
+
+.inputSpan {
+  display: inline-block;
+}
